@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/weiraven/web102_prework/blob/main/assets/walkthrough.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough of Backin Kraken' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
